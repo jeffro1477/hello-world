@@ -1,2 +1,4 @@
 # hello-world
-learning hot to git
+learning how to git
+
+adding some comments per the instructions in the hello-world readme file. 
